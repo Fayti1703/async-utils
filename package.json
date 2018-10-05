@@ -1,0 +1,27 @@
+{
+  "name": "@fayti1703/async-utils",
+  "version": "0.7.0",
+  "description": "Various (async) Promise utility functions",
+  "main": "lib/main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fayti1703/async-utils.git"
+  },
+  "keywords": [
+    "async",
+    "promise",
+    "utility"
+  ],
+  "author": "Fayti1703",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/Fayti1703/async-utils/issues"
+  },
+  "homepage": "https://github.com/Fayti1703/async-utils#readme"
+}
