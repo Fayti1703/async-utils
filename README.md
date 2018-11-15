@@ -19,7 +19,7 @@ Various async utility functions
 Sends a HTTPS request to the specified server. The resulting response is passed to msgToObj, the result of which is returned.
 
 #### requestInsecure(options, body, encoding)
-* `options` [<Object\>][object] | [<string\>][string] | [<URL\>][url] See [`https.request`](https://nodejs.org/api/https.html#https_https_request_options_callback)
+* `options` [<Object\>][object] | [<string\>][string] | [<URL\>][url] See [`http.request`](https://nodejs.org/api/http.html#http_http_request_options_callback)
 * `body` [<string\>][string] | [<Buffer\>][buffer] The body of the request. Use `undefined` for no body.
 * `encoding` [<string\>][string] The character encoding to use. Uses the same format as (`slurp`)[#slurp]
 * Returns: [<Promise][Promise][<Object\>][Object][\>][Promise] (See [`msgToObj`](#msgtoobjmessage))
