@@ -1,6 +1,6 @@
 {
   "name": "@fayti1703/async-utils",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "description": "Various (async) Promise utility functions",
   "main": "lib/main.js",
   "directories": {
